@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Eloisa2.github.io/build/static/css/main.e6c13ad2.css",
+    "main.js": "/Eloisa2.github.io/build/static/js/main.cfc764f2.js",
+    "static/js/787.7acab544.chunk.js": "/Eloisa2.github.io/build/static/js/787.7acab544.chunk.js",
+    "index.html": "/Eloisa2.github.io/build/index.html",
+    "main.e6c13ad2.css.map": "/Eloisa2.github.io/build/static/css/main.e6c13ad2.css.map",
+    "main.cfc764f2.js.map": "/Eloisa2.github.io/build/static/js/main.cfc764f2.js.map",
+    "787.7acab544.chunk.js.map": "/Eloisa2.github.io/build/static/js/787.7acab544.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cfc764f2.js"
+  ]
+}
